@@ -1,11 +1,11 @@
 // Initialize Firebase
 var config = {
-    apiKey: "AIzaSyD2z5Gq-aslu5cyHF-V4x8cGDxwhFQ4u3Y",
+    apiKey: "######",
     authDomain: "openacademy-contact-form.firebaseapp.com",
     databaseURL: "https://openacademy-contact-form.firebaseio.com",
     projectId: "openacademy-contact-form",
     storageBucket: "openacademy-contact-form.appspot.com",
-    messagingSenderId: "244330105209"
+    messagingSenderId: "####"
   };
   firebase.initializeApp(config);
 
